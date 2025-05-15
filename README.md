@@ -1,6 +1,6 @@
 # Hello, World!
 
-- 👋 Hi, I’m @4Sehat5Sekarat not actual name
+- 👋 Hi, I’m @4Sehat5Sekarat (not actual name)
 - 👀 I’m interested in my own phone and now my thinkpad (Arch btw)
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on me and myself
